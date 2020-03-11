@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560264184550",
+    "firebase_url": "https://sportzshop.firebaseio.com",
+    "project_id": "sportzshop",
+    "storage_bucket": "sportzshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560264184550:android:d25a677bc9d02333",
+        "android_client_info": {
+          "package_name": "com.sportzshop.sportzshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560264184550-kmlsaosb54iunuj9ll6gq6t8tl3mvpje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sportzshop.sportzshop",
+            "certificate_hash": "81533d1f53dc70af70785c36e6562b54d346ce1a"
+          }
+        },
+        {
+          "client_id": "560264184550-mbictrum19am4mpo2lar0kvunn0s7m55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VGWFdY0xikGi4O5-GiQ0yNhgekD6CCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560264184550-mbictrum19am4mpo2lar0kvunn0s7m55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
